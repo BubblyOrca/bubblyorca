@@ -7,6 +7,6 @@ I'm a data scientist, DJ, and crypto degen. I enjoy listening to Solange while I
 - 👯 I’m looking to collaborate on cool ML projects
 - 🤔 I’m looking for help with new birria taco spots in Austin
 - 💬 Ask me about how to dismantle machine learning bias 
-- 📫 How to reach me: ...
+- 📫 How to reach me: see bubbly orca zone
 - 😄 Pronouns: she/her/hers/boss
 - ⚡ Fun fact: I've been researching Bitcoin since 2016; now I'm fighting for Web3 to do right by my Blackness
