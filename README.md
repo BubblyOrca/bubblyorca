@@ -1,4 +1,4 @@
-:wave: Hey there, I'm Jasmine Sahara
+:wave: Hey there, I'm Bubbly Orca
 
 I'm a data scientist, DJ, and crypto degen. I enjoy listening to Solange while I code. The best way to reach me is through LinkedIn but check out some of my NFTs while you're here: [bubbly orca zone](https://linktr.ee/bubblyorca) 
 
