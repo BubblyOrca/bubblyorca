@@ -1,4 +1,4 @@
-:wave::skin-tone-5: Hi, I'm Jasmine Sahara
+:wave: Hi, I'm Jasmine Sahara
 
 I'm a data scientist, DJ, and crypto degen. I enjoy listening to Solange while I code. The best way to reach me is through LinkedIn but check out some of my NFTs while you're here: [bubbly orca zone](https://linktr.ee/bubblyorca) 
 
