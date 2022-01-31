@@ -5,7 +5,7 @@ I'm a data scientist, DJ, and crypto degen. I enjoy listening to Solange while I
 - 🔭 I’m currently working on making DeFi intelligent through Sena Labs
 - 🌱 I’m currently learning more about tokenization of sub-atomic organisms
 - 👯 I’m looking to collaborate on cool ML projects
-- 🤔 I’m looking for help with new birria taco spots in Austin
+- 🤔 I’m looking for help with finding new birria taco spots in Austin
 - 💬 Ask me about how to dismantle machine learning bias 
 - 📫 How to reach me: see bubbly orca zone
 - 😄 Pronouns: she/her/hers/boss
