@@ -1,9 +1,8 @@
 👋 Hi, I'm Jasmine Sahara
 
-I'm a data scientist, DJ, and crypto degen. I enjoy listening to Solange while I code. The best way to reach me is through LinkedIn but check out some of my NFTs while you're here: link.tree/bubblyorca 
-<!--
+I'm a data scientist, DJ, and crypto degen. I enjoy listening to Solange while I code. The best way to reach me is through LinkedIn but check out some of my NFTs while you're here: [the rabbit hole :hole:](https://linktr.ee/bubblyorca) 
 
-- 🔭 I’m currently working on Sena Labs DAO 
+- 🔭 I’m currently working on making DeFi intelligent through Sena Labs
 - 🌱 I’m currently learning more about tokenization of sub-atomic organisms
 - 👯 I’m looking to collaborate on cool ML projects
 - 🤔 I’m looking for help with new birria taco spots in Austin
@@ -11,4 +10,3 @@ I'm a data scientist, DJ, and crypto degen. I enjoy listening to Solange while I
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her/hers/boss
 - ⚡ Fun fact: I've been researching Bitcoin since 2016; now I'm fighting for Web3 to do right by my Blackness
--->
