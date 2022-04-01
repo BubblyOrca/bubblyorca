@@ -2,7 +2,7 @@
 
 I'm a data scientist, DJ, and crypto connoisseur. I enjoy listening to Solange while I code. The best way to reach me is through LinkedIn but check out some of my NFTs while you're here: [bubbly orca zone](https://linktr.ee/bubblyorca) 
 
-- 🔭 I’m currently working on making DeFi intelligent through Sena Labs
+- 🔭 I’m currently working on making Web3 intelligent through Sena Labs
 - 🌱 I’m currently learning more about tokenization of sub-atomic organisms
 - 👯 I’m looking to collaborate on cool ML projects or crypto projects
 - 🤔 I’m looking for help with finding new birria taco spots in Austin
