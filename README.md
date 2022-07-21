@@ -5,7 +5,7 @@ I'm a shadowy super-coding data scientist, DJ, and crypto connoisseur. I enjoy l
 - 🔭 I’m currently working on making Web3 Intelligent
 - 🌱 I’m currently learning more about tokenization of sub-atomic organisms
 - 👯 I’m looking to collaborate on cool ML projects or crypto projects
-- 🤔 I’m looking for help with finding new birria taco spots in Austin
+- 🤔 I’m looking for help with learning Rust
 - 💬 Ask me about how to dismantle machine learning bias 
 - 📫 How to reach me: see bubbly orca zone
 - 😄 Pronouns: she/her/hers/boss
