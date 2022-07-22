@@ -1,7 +1,9 @@
 :wave: Hey there, I'm Bubbly Orca
 I'm a shadowy super-coding data scientist, DJ, and crypto connoisseur. In 2021, I was labeled a criminal (hacker) by NYC officials, now I'm building software to mitigate risk and hacks in Web3. I enjoy listening to Solange while I code. The best way to reach me is through LinkedIn but check out some of my NFTs while you're here: [bubbly orca zone](https://linktr.ee/bubblyorca) 
 
+<p align="center">
 ![BubblyOrca's GitHub stats](https://github-readme-stats.vercel.app/api?username=bubblyorca&show_icons=true&theme=tokyonight)
+</p>
 
 - 🔭 I’m currently working on making Web3 Intelligent
 - 🌱 I’m currently learning more about tokenization of sub-atomic organisms
