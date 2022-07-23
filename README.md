@@ -11,4 +11,4 @@ I'm a shadowy super-coding data scientist, DJ, and crypto connoisseur. I enjoy l
 - 📫 How to reach me: see bubbly orca zone
 - 😄 Pronouns: she/her/hers/boss
 - ⚡ Fun fact: I've been researching Bitcoin since 2016; now I'm fighting for Web3 to do right by my Blackness 🖤
-- ⚡ Fun fact pt. 2: In 2021, I was labeled a criminal (hacker) by NYC officials, now I'm building software to mitigate risk and hacks in Web3.
+- ⚡ Fun fact pt. 2: In 2021, I was deemed a criminal (hacker) by NYC officials, now I'm building software to mitigate risk and hacks in Web3.
