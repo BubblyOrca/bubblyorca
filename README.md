@@ -11,3 +11,5 @@ I'm a shadowy super-coding data scientist, DJ, and crypto connoisseur. I enjoy l
 - 📫 How to reach me: see bubbly orca zone
 - 😄 Pronouns: she/her/hers/boss
 - ⚡ Fun fact: I've been researching Bitcoin since 2016; now I'm fighting for Web3 to do right by my Blackness 🖤
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bubblyorca&theme=dark&background=000000)](https://git.io/streak-stats)
