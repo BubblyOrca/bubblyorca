@@ -10,6 +10,6 @@ I'm a shadowy super-coder, DJ, and crypto connoisseur. I enjoy listening to Sola
 - 💬 Ask me about how to dismantle machine learning bias 
 - 📫 How to reach me: see bubbly orca zone
 - 😄 Pronouns: she/her/hers/boss
-- ⚡ Fun fact: I've been researching Bitcoin since 2016; now I'm fighting for Web3 to do right by my Blackness 🖤 #DontMuteDC #UnflatteredByYourMurals
+- ⚡ Fun fact: I've been researching Bitcoin since 2016; now I'm fighting for Web3 to do right by my Blackness 🖤 #DontMuteDC #UnflatteredByYourMurals #UngentrifyingTheBlockchain
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bubblyorca&theme=dark&background=0B0F22)](https://git.io/streak-stats)
