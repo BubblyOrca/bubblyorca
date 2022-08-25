@@ -1,8 +1,8 @@
 :wave: Hey there, I'm Bubbly Orca
 I'm a shadowy super-coder, DJ, and crypto connoisseur. I enjoy listening to Solange and [Go-go](https://www.youtube.com/watch?v=XDHUsuBafcc) while I code. The best way to reach me is through LinkedIn but check out some of my works while you're here: [bubbly orca zone](https://linktr.ee/bubblyorca) </br>
 
-----
 ![BubblyOrca's GitHub stats](https://github-readme-stats.vercel.app/api?username=bubblyorca&show_icons=true&theme=tokyonight) </br>
+----
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
