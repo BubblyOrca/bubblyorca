@@ -30,7 +30,7 @@ I'm a shadowy super-coder, DJ, and crypto connoisseur. I enjoy listening to Sola
 - 🌱 I’m currently learning more about tokenization of sub-atomic organisms
 - 👯 I’m looking to collaborate on cool ML projects or crypto projects
 - 🤔 I’m looking for hackathon teammates! Ping me on LinkedIn! (see bubbly orca zone for pg)
-- 💬 Ask me about how to dismantle machine learning bias 
+- 💬 Ask me about how to dismantle machine learning bias in socio-cultural contexts
 - 📫 How to reach me: see bubbly orca zone
 - 😄 Pronouns: she/her/hers/boss
 - ⚡ Fun fact: I've been researching Bitcoin since 2016; now I'm fighting for Web3 to do right by my Blackness 🖤 #DontMuteDC #UnflatteredByYourMurals #UngentrifyingTheBlockchain
