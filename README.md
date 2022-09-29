@@ -1,5 +1,3 @@
-## [Dear supporters, you can donate as little as $1 to our Gitcoin Grant up till Sept. 22!](https://gitcoin.co/grants/7534/rektify-ai-champions-of-web3-security)
-
 :wave: Hey there, I'm Bubbly Orca
 I'm a shadowy super-coder, DJ, and crypto connoisseur. I enjoy listening to Solange and [Go-go](https://www.youtube.com/watch?v=XDHUsuBafcc) while I code. The best way to reach me is through LinkedIn but check out some of my works while you're here: [bubbly orca zone](https://linktr.ee/bubblyorca) </br>
 
