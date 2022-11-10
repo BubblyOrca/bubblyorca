@@ -26,7 +26,7 @@ I'm a shadowy super-coder, DJ, and crypto connoisseur. I enjoy listening to Sola
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
 ----
-- 🔭 I’m currently working on making Web3 Intelligent
+- 🔭 I’m currently working on making Web3/DLT Intelligent
 - 🌱 I’m currently learning more about tokenization of sub-atomic organisms
 - 👯 I’m looking to collaborate on cool ML projects or crypto projects
 - 🤔 I’m looking for hackathon teammates! Ping me on LinkedIn! (see bubbly orca zone for pg)
