@@ -34,5 +34,6 @@ I'm a shadowy super-coder, DJ, and crypto connoisseur. I enjoy listening to Sola
 - 📫 How to reach me: see bubbly orca zone
 - 😄 Pronouns: she/her/hers/boss
 - ⚡ Fun fact: I've been researching Bitcoin since 2016; now I'm fighting for Web3 to do right by my Blackness 🖤 #DontMuteDC #UnflatteredByYourMurals #UngentrifyingTheBlockchain
+- ⚡ Another Fun fact: I am Kemite. My ancestry links to Egytians from the 11th-14th century who migrated to Central Africa. Known for their craftmenship and creativity, my ancestors created arts in the physical realm so that I could one day create art in the digital.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bubblyorca&theme=dark&background=0B0F22)](https://git.io/streak-stats)
