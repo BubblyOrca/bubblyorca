@@ -4,7 +4,6 @@ I'm a shadowy super-coder, DJ, and crypto connoisseur. I enjoy listening to Sola
 ![BubblyOrca's GitHub stats](https://github-readme-stats.vercel.app/api?username=bubblyorca&show_icons=true&theme=tokyonight) </br>
 ----
 
-![](https://github.com/BubblyOrca/jasminebruns33.github.io/blob/master/quintab-pyramid.gif)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -38,5 +37,6 @@ I'm a shadowy super-coder, DJ, and crypto connoisseur. I enjoy listening to Sola
 - 😄 Pronouns: she/her/hers/boss
 - ⚡ Fun fact: I've been researching Bitcoin since 2016; now I'm fighting for Web3 to do right by my Blackness 🖤 #DontMuteDC #UnflatteredByYourMurals #UngentrifyingTheBlockchain
 - ⚡ Another Fun fact: I am Kemite. My ancestry links to Egyptians from the 11th-14th century who migrated to Central Africa. Known for their craftmenship and creativity, my ancestors created arts in the physical realm so that I could one day create art in the digital.
+![](https://github.com/BubblyOrca/jasminebruns33.github.io/blob/master/quintab-pyramid.gif)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bubblyorca&theme=dark&background=0B0F22)](https://git.io/streak-stats)
