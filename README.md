@@ -4,6 +4,7 @@ I'm a shadowy super-coder, DJ, and crypto connoisseur. I enjoy listening to Sola
 ![BubblyOrca's GitHub stats](https://github-readme-stats.vercel.app/api?username=bubblyorca&show_icons=true&theme=tokyonight) </br>
 ----
 
+[![Spotify](https://bubblyorca.vercel.app/api/spotify)](https://open.spotify.com/user/gt0s7ua8oo1fhgdwuldz0vm5o )
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
