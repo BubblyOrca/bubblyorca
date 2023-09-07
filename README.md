@@ -1,4 +1,4 @@
-:wave: Hey there, I'm Bubbly Orca (![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white))
+:wave: Hey there, I'm Bubbly Orca,
 I'm a shadowy super-coder, DJ, and crypto connoisseur. I enjoy listening to Solange and [Go-go](https://www.youtube.com/watch?v=-nXufntT_dE) while I code. The best way to reach me is through LinkedIn but check out some of my works while you're here: [bubbly orca zone](https://linktr.ee/bubblyorca) </br>
 
 ![BubblyOrca's GitHub stats](https://github-readme-stats.vercel.app/api?username=BubblyOrca&show_icons=true&theme=tokyonight) </br>
