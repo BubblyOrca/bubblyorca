@@ -35,8 +35,8 @@ I'm a shadowy super-coder, DJ, and crypto connoisseur. I enjoy listening to Sola
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ----
-- 🔭 I’m currently working on making Web3/DLT Intelligent
-- 🌱 I’m currently learning more about tokenization of sub-atomic organisms
+- 🔭 I’m currently working on pioneering Decentralized AI
+- 🌱 I’m currently learning more about the tokenization of real-world objects
 - 👯 I’m looking to collaborate on cool ML projects or crypto projects
 - 🤔 I’m looking for hackathon teammates! Ping me on Twitter! I've won 5 Web3 hackathons 🏆
 - 💬 Ask me about how to dismantle machine learning bias in socio-cultural contexts. 🚨 Check [this](https://www.washingtonpost.com/nation/2022/11/30/san-francisco-police-robots-kill/) out!
