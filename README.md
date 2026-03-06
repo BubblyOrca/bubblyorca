@@ -1,8 +1,7 @@
 :wave: Hey there, I'm Bubbly Orca,
 I'm a shadowy super-coder, DJ, and crypto connoisseur. I enjoy listening to Solange and [Go-go](https://www.youtube.com/watch?v=-nXufntT_dE) while I code. The best way to reach me is through LinkedIn but check out some of my works while you're here </br>
 
-# ![GitHub Streak](https://streak-stats.demolab.com/?user=bubblyorca&theme=tokyonight)
-</br>
+# ![GitHub Streak](https://streak-stats.demolab.com/?user=bubblyorca&theme=tokyonight) </br>
 ----
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
