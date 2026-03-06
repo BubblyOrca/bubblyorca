@@ -35,14 +35,13 @@ I'm a shadowy super-coder, DJ, and crypto connoisseur. I enjoy listening to Sola
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ----
-- 🔭 I’m currently working on pioneering Decentralized AI
-- 🌱 I’m currently learning more about the tokenization of real-world objects
-- 👯 I’m looking to collaborate on cool ML projects or crypto projects
-- 🤔 I’m looking for hackathon teammates! Ping me on Twitter! I've won 7 Web3 hackathons 🏆
+- 🔭 I’m currently working on pioneering DeFi Security, Decentralized AI, and Data Center Workflow Optimization
+- 🌱 I’m currently learning more about the tokenization of real-world objects (RWAs)
+- 👯 I’m looking to collaborate on cool ML projects and crypto projects
+- 🤔 I’m looking for hackathon teammates! Ping me on Twitter! I've won 7 hackathons 🏆
 - 💬 Ask me about how to dismantle machine learning bias in socio-cultural contexts. 🚨 Check [this](https://www.washingtonpost.com/nation/2022/11/30/san-francisco-police-robots-kill/) out!
 - 📫 How to reach me: see bubbly orca zone
 - 😄 Pronouns: she/her/hers/boss
 
-# ![Stats](https://github-profile-trophy.vercel.app/?username=bubblyorca&row=2&column=3)
 
 
