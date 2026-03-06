@@ -43,7 +43,6 @@ I'm a shadowy super-coder, DJ, and crypto connoisseur. I enjoy listening to Sola
 - 📫 How to reach me: see bubbly orca zone
 - 😄 Pronouns: she/her/hers/boss
 
-[Stats](https://github-profile-trophy.vercel.app/?username=bubblyorca&row=2&column=3)
+# ![Stats](https://github-profile-trophy.vercel.app/?username=bubblyorca&row=2&column=3)
 
 
-# [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bubblyorca&theme=dark&background=0B0F22)](https://git.io/streak-stats)
