@@ -1,9 +1,6 @@
 :wave: Hey there, I'm Bubbly Orca,
 I'm a shadowy super-coder, DJ, and crypto connoisseur. I enjoy listening to Solange and [Go-go](https://www.youtube.com/watch?v=-nXufntT_dE) while I code. The best way to reach me is through LinkedIn but check out some of my works while you're here </br>
 
-&nbsp;<div align="center">
-  [![Last.fm](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://novatorem.vercel.app/redirect)
-</div>
 
 &nbsp;<div align="center">
   [Fork](https://github.com/bubblyorca) this [unlicensed](https://choosealicense.com/licenses/unlicense/) repository to recreate!<br><br>
