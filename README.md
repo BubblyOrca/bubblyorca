@@ -27,8 +27,8 @@ I'm a shadowy super-coder, DJ, and crypto connoisseur. I enjoy listening to Sola
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ----
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bubblyorca&theme=dark-aura)](https://git.io/streak-stats) </br>
-----
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bubblyorca&theme=sunset-gradient)](https://git.io/streak-stats) </br>
+
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=black)
