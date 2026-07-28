@@ -25,6 +25,10 @@ I'm a shadowy super-coder, DJ, and crypto connoisseur. I enjoy listening to Sola
 ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+----
+# ![GitHub Streak](https://streak-stats.demolab.com/?user=bubblyorca&theme=tokyonight) </br>
+----
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=black)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -35,8 +39,6 @@ I'm a shadowy super-coder, DJ, and crypto connoisseur. I enjoy listening to Sola
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-----
-# ![GitHub Streak](https://streak-stats.demolab.com/?user=bubblyorca&theme=tokyonight) </br>
 ----
 - 🔭 I’m currently working on pioneering DeFi Security, Decentralized AI, and Data Center Workflow Optimization
 - 🌱 I’m currently learning more about the tokenization of real-world objects (RWAs)
