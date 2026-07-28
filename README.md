@@ -28,8 +28,8 @@ I'm a shadowy super-coder, DJ, and crypto connoisseur. I enjoy listening to Sola
 
 ----
 # [![GitHub Streak](https://streak-stats.demolab.com?user=bubblyorca)](https://git.io/streak-stats) </br>
-
 ----
+
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=black)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
